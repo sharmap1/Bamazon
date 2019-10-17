@@ -1,5 +1,7 @@
 # Bamazon
 
+<img src="screenshots/bamazon.jpg" width="350" height="250" style=" display: block;  margin-left: auto;  margin-right: auto;  width: 50%">
+
 ## Overview
 
 This is an Amazon-like storefront with the MySQL. The app will take in orders from customers and delete stock from the store's inventory,
