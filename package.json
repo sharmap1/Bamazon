@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This is an Amazon-like storefront with the MySQL. The app will take in orders from customers and delete stock from the store's inventory,\r tracks product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmap1/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharmap1/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sharmap1/Bamazon#readme"
+}
